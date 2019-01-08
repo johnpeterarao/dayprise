@@ -1,0 +1,140 @@
+@media only screen and (max-width: 1400px){
+	.nav-cont, .cs-container { max-width: 90%!important;}
+	.home .sec-1 .hldr article h2 {font-size: 45px!important;}
+	.title  {font-size: 45px!important;}
+	.home .sec-2 {padding: 65px 0px!important}
+	.home .sec-4 { padding-top: 65px!important;}
+	footer { padding: 50px 0px!important;}
+}
+
+
+@media only screen and (max-width: 1300px){
+	.home .sec-3 .hldr .tab-content .common-class ul li:last-child { padding-left: 50px!important;}
+	.home .sec-1 .hldr article { padding-left: 50px!important; padding-right: 50px!important;}
+	.home .sec-3 .hldr .tab-content .common-class ul li:last-child article { padding-left: 0px!important;}
+	.home .sec-1 .hldr article h2 { font-size: 40px!important;}
+	.title  {font-size: 40px!important;}
+	.home .sec-2 { padding: 40px 0px!important;}
+	.home .sec-3{ padding-top: 40px!important;}/*
+	.home .sec-4 {padding-top: 40px!important;}*/
+	.small-cont {max-width: 85%!important;}
+	.home .sec-4 .hldr .main-list > li:first-child h4 span img { top: -15px!important; width: 94px!important; height: 78px!important;}
+	.home .sec-4 .hldr .main-list > li:first-child { padding-right: 50px!important;}
+	.home .sec-4 .hldr .main-list > li:first-child article > ul > li > article h4 { font-size: 25px!important}
+	.home .sec-4  {padding-bottom: 40px!important;}
+	.home .sec-5 { padding-top: 40px!important;}
+	.home .sec-5 .hldr > ul li:last-child { padding-left: 50px!important; padding-right: 0px!important;}
+	.home .sec-5 .hldr > ul li:first-child { padding-left: 0px!important;}
+	footer { padding: 40px 0px!important;}
+}
+
+
+@media only screen and (max-width: 1200px){
+	.nav-custom .navbar-nav li { padding: 0px 10px!important;}
+	.nav-custom .navbar-nav li a { padding: 10px 5px!important;}
+	.home .sec-1 .hldr article { padding-right: 0px!important;}
+	.home .sec-1 .hldr article h2 br{ display: none;}
+	.nav-cont, .cs-container { max-width: 100%!important; padding: 0px 40px;}
+	.home .sec-4 .hldr .main-list > li:last-child {padding-right: 0px!important; width: 400px!important;}
+	.home .sec-4 .hldr .main-list > li:first-child { width: calc(100% - 400px)!important; }
+}
+
+
+@media only screen and (max-width: 999px){
+	.nav-custom .navbar-nav { padding-right: 0px!important;}
+	.navbar-header { float: none;}
+    .navbar-left,.navbar-right { float: none !important;  }
+    .navbar-toggle { display: block; float: right; background: transparent!important; border: 0px;  margin-top: 20px;     margin-right: 0px; padding: 0px 10px!important;}
+    .navbar-collapse { border-top: 0px solid transparent; box-shadow: inset 0 0px 0 rgba(255,255,255,0.1); background: #fff; position: relative; z-index: 99; padding: 0px!important;}
+    .navbar-fixed-top { top: 0; border-width: 0 0 1px; }
+    .navbar-collapse.collapse { display: none!important; }
+    .navbar-nav {float: none!important; margin-right: 0px!important; margin-left: 0px!important;}
+    .navbar-nav>li { float: none!important; }
+    .navbar-nav>li>a { padding-top: 10px; padding-bottom: 10px; }
+    .collapse.in{  display:block !important; }
+    .nav-custom li a { font-size: 18px!important;} 
+      
+    .nav-ul { margin-top: 53px; }
+    .navbar-brand { height: inherit; padding: 0px; }
+    .navbar-logo { margin-top: 0px!important; margin: 0 auto;}
+    .nav-custom { position: relative!important; top: 0!important; padding: 10px 0px!important; min-height: 69px!important; background: #fff;}
+    .menu { top: 0!important;}
+    .navbar-toggle .icon-bar{ width: 35px; height: 4px;}    
+    .nav-custom .navbar-nav > li:last-child { display: block!important;}
+    .nav > li { display: block!important; }
+    .nav-custom .navbar-nav > li > a { padding:  10px 0px!important; }
+    .nav-custom .navbar-nav li a { color: #000!important;}
+    .nav-custom .nav-flx { height: auto!important;  display: block!important; margin-top: 20px!important;}
+    .nav-custom .navbar-nav li { padding: 0px!important;}
+
+
+    .home .sec-1 .hldr aside { display: none;}
+	.home .sec-1 .hldr article { width: 100%!important; padding-left: 0px!important;}
+	.nav-cont, .cs-container { max-width: 100%!important; padding: 0px 20px;}
+	.home .sec-1 .hldr article { padding-top: 0px!important;}
+
+	.home .sec-1 { min-height: auto!important; padding: 100px 0px!important;}
+	.home .sec-1 .hldr article{ text-align: center;}
+	.home .sec-1 .hldr article h2 { margin-bottom: 20px!important;}
+	.home .sec-1 .hldr article a {margin-top: 35px!important;}
+    
+    .small-cont { max-width: 100%!important;}
+    .home .sec-2 .hldr .iframe-hldr {margin-top: 40px!important;}
+    .home .sec-3  { padding: 40px 0px!important;}
+    .home .sec-4 { padding-top: 40px!important;}
+    .home .sec-4 .hldr .main-list > li:first-child { width: 100%!important; padding-right: 0px!important; margin-bottom: 45px;}
+    .home .sec-4 .hldr .main-list > li > article > h4 { text-align: center!important;}
+    .home .sec-4 .hldr .main-list > li > article > h4 + p { text-align: center;}
+    .home .sec-4 .hldr .main-list > li:last-child  { width: 100%!important}
+    .home .sec-4 .hldr .main-list > li:last-child aside img {     width: 290px; display: block; max-width: 100%; margin: 0 auto;}
+    .home .sec-4 .hldr .main-list > li:first-child h4 span img { position: relative!important;     top: -7px!important; width: 80px!important; height: 64px!important;}
+    .home .sec-5 .hldr > ul li:first-child  { width: 100%!important;}
+    .home .sec-5 .hldr > ul li:first-child aside { margin: 0 auto 35px;}
+    .home .sec-5  { padding-bottom: 40px!important;}
+    .home .sec-5 .hldr > ul li:last-child { padding-top: 0px!important; width: 100%!important; padding-left: 0px!important;}
+    .home .sec-5 .hldr > ul li:last-child article { text-align: center;}
+    .home .sec-5 .hldr > ul li:last-child article h4, .home .sec-3 .hldr .tab-content .common-class ul li:last-child article h4 { font-size: 30px!important; }
+    .home .sec-5 .hldr > ul li:last-child article p  {font-size: 20px!important;}
+    footer .hldr article {margin-bottom: 40px!important;}
+
+    .nav-logo  { max-width: 200px!important; height: auto!important;}
+    .home .sec-3 .hldr .tab-content .common-class ul li:first-child  { width: 100%!important;}
+    .home .sec-3 .hldr .tab-content .common-class ul li:first-child aside { max-width: 320px!important; height: auto!important; margin: 0 auto;}
+    .home .sec-3 .hldr .tab-content .common-class ul li:last-child{ padding-left: 0px!important; width: 100%!important; padding: 20px 0px!important;}
+    .home .sec-3 .hldr .tab-content .common-class ul li:last-child article h4 {margin-bottom: 25px!important;}
+
+}
+
+@media only screen and (max-width: 800px){
+	.home .sec-2 .hldr .iframe-hldr iframe { height: 400px!important;}
+	.title { margin-bottom: 20px!important;}
+}
+
+
+
+
+
+@media only screen and (max-width: 600px){
+	.home .sec-1 .hldr article h2, .title  { font-size: 35px!important;}
+	.home .sec-1 {padding: 70px 0px!important;}
+	.home .sec-2 .hldr .iframe-hldr iframe { height: 240px!important;}
+	.home .sec-2  {background-size: 130px!important;}
+
+	.home .sec-4 .hldr .main-list > li:first-child article > ul > li > article span { position: relative!important; margin: 0 auto 15px; display: block;}
+	.home .sec-4 .hldr .main-list > li:first-child article > ul > li > article { padding-left: 0px!important;}
+	.home .sec-4 .hldr .main-list > li:first-child article > ul > li > article h4 { text-align: center;}
+	.home .sec-4 .hldr .main-list > li:first-child article > ul > li > article p { text-align: center;}
+	.home .sec-4 .hldr .main-list > li:first-child h4 span { display: none; margin-top: 10px;}
+	.home .sec-5 .hldr > ul li:last-child article p { font-size: 18px!important;}
+	.home .sec-5 .hldr > ul li:last-child article h4, .home .sec-3 .hldr .tab-content .common-class ul li:last-child article h4 { font-size: 25px!important;}
+	.home .sec-4 .hldr .main-list > li:first-child article > ul > li { margin-bottom: 40px!important;}
+	.home .sec-4 .hldr .main-list > li:last-child aside img  { width: 200px!important}
+	
+    .nav-logo { max-width: 180px!important; }
+    .home .sec-3 .hldr .tab-content .common-class ul li:first-child aside { max-width: 290px!important;}
+    .home .sec-3 .hldr .tab-content .panel-title span { float: left; top: -8px;}
+    .home .sec-3 .hldr .tab-content .panel-heading{ padding: 20px 15px!important;}
+    .home .sec-3 .hldr .tab-content .panel-title { font-size: 18px!important;}
+
+
+}
